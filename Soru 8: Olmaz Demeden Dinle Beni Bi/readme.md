@@ -1,4 +1,4 @@
 
-#Soruya ait APK Dosyası dizin içerisindedir.
+# Soruya ait APK Dosyası dizin içerisindedir.
 
-##Servername: **VSXSoruXAndroid**
+## Servername: **VSXSoruXAndroid**
