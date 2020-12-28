@@ -1,5 +1,5 @@
 
-## Servername ** VSXSoruXsqli **
+## Servername **VSXSoruXsqli**
 
 
 Bu soru için kullandığım sqlmap parametreleri aşağıda yer almaktadır
