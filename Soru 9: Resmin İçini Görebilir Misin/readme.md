@@ -1,1 +1,2 @@
 
+![soru](kedicik.png)
